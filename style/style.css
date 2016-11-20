@@ -1,0 +1,28 @@
+body{
+  /* background-color: #0F143F; */
+  background-image : url("/images/bg.png");
+}
+
+.imgLogo{
+  position: absolute;
+  top: 50px;
+  width : 278px;
+  height : 61px;
+  left : 50%;
+  margin-left : -139px;
+  background-image : url("/images/logo-st.png");
+}
+
+.form{
+  position: absolute;
+  top: 150px;
+  width : 278px;
+  height : 61px;
+  left : 100px;
+  color : #FFFFFF;
+}
+
+.input{
+  position: relative;
+  margin-top: 10px;
+}
